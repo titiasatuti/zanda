@@ -1,0 +1,7 @@
+{
+  "name": "Inventory Management System with QR Code",
+  "description": "An efficient solution to track inventory using QR codes, featuring item management, stock control, QR code generation, scanning, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
